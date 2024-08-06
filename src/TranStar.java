@@ -5,7 +5,7 @@ import java.awt.Image;
 import javax.swing.ImageIcon;
 public class TranStar
 {
-    //instance variables
+    //instance variables fun
     private int x,y;
     private int diam;
     private Color col;
